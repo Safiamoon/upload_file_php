@@ -1,0 +1,17 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.home {
+    height: 100vh;
+}
+
+.cta-home {
+    color: #757575;
+}
+
+#wrapper {
+    max-width: 900px;
+    margin: auto;
+    padding-bottom: 3.5em;
+}
